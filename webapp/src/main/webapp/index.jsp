@@ -7,4 +7,5 @@ code changed for practice
 checking polling
 
 I have added some ontent of the file yes
+let c other are added
 .......
